@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PerformanceManagement.iml" filepath="$PROJECT_DIR$/.idea/PerformanceManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Employee-managment-microservice.iml" filepath="$PROJECT_DIR$/.idea/Employee-managment-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PerformanceManagement/PerformanceManagement.iml" filepath="$PROJECT_DIR$/PerformanceManagement/PerformanceManagement.iml" />
     </modules>
   </component>
 </project>
